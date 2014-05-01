@@ -1,0 +1,3 @@
+[submodule "RecipeTweakingCore"]
+	path = RecipeTweakingCore
+	url = http://github.com/tterrag1098/RecipeTweakingCore.git
